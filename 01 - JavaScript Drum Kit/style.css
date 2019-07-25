@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url(http://i.imgur.com/b9r5sEL.jpg) bottom center;
+  background: url(https://previews.123rf.com/images/fabrikacrimea/fabrikacrimea1811/fabrikacrimea181103543/111099924-field-of-roses.jpg) bottom center;
   background-size: cover;
 }
 
@@ -34,8 +34,8 @@ body,html {
 
 .playing {
   transform: scale(1.1);
-  border-color: #ffc600;
-  box-shadow: 0 0 1rem #ffc600;
+  border-color: #00a2ff;
+  box-shadow: 0 0 1rem #f700ff;
 }
 
 kbd {
